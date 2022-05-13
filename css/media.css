@@ -1,0 +1,691 @@
+@media screen and (max-width:1400px){
+ 
+    .between .correct{
+        margin-left: 80px;
+    }
+    .content6 .business{
+        margin-left: 25px;
+    }
+    .content8{
+        width: 90%;
+        margin-left: 5%;
+    }
+    .content8 div{
+        width: 23%;
+    }
+    .content8 .hidden{
+        display: none;
+    }
+    .content9 .choose-us{
+        margin-left: 20px;
+    }
+    .expert2 .overlay{
+        display: none;
+    }
+    .subscribe .content15{
+        display: flex;
+        justify-content: space-evenly;
+    }
+    .subscribe2 .gmail{
+        width: 330px;
+    }
+    .subscribe2 .click{
+        margin-left: 10px;
+    }
+}
+@media screen and (max-width:1300px){
+    .bg1 .content{
+        width: 50%;
+    }
+    .between .correct{
+        margin-left: 10px;
+    }
+    .bottom .name{
+        margin-left: 0;
+    }
+    .subscribe h2{
+        font-size: 30px;
+    }
+    .subscribe p{
+        font-size: 14px;
+    }
+    
+}
+@media screen and (max-width:1200px){
+    .content2 .left{
+        left: 0;
+    }
+    .content2 .right{
+        width: 52%;
+        margin: 0 -90px;
+    }
+    .content2 .right .content3{
+        margin-left: 110px;
+    }
+    .what .content4{
+        width: 90%;
+        margin-left: 5%;
+    }
+    .request .content5{
+        width: 96%;
+        margin-left: 2%;
+    }
+    .goal .content6{
+        width: 96%;
+        margin-left: 2%;
+    }
+    .study .content7{
+        width: 96%;
+        margin-left: 2%;
+    }
+    .content7 .special h3{
+        font-size: 12px;
+    }
+    .study .content8{
+        width: 96%;
+        margin-left: 2%;
+    }
+    .choose .content9{
+        width: 96%;
+        margin-left: 2%;
+    }
+    .choose-us .team{
+        width: auto;
+        margin-left: 0;
+        margin-right: 15px;
+    }
+    .expert .content10{
+        width: 96%;
+        margin-left: 2%;
+    }
+    .contact .content13{
+        width: 96% !important;
+        margin-left: 2%;
+    }
+    .contact .content13 .free h3{
+        font-size: 12px;
+    }
+    .select .select1{
+        padding-top: 24px;
+        gap: 25px;
+    }
+    .blog .content14{
+        width: 96%;
+        margin-left: 2%;
+    }
+    .blog1 .area{
+        width: 50%;
+    }
+    .blog2{
+        flex-wrap: wrap;
+        /* justify-content: center; */
+        row-gap: 30px;
+    }
+    .blog2 div{
+        width: 485px;
+    }
+    .subscribe .content15{
+        width: 96%;
+        margin-left: 2%;
+        display: flex;
+        justify-content: space-evenly;
+    }
+    .footer .footer1 .content16{
+        width: 96%;
+        margin-left: 2%;
+    }
+}
+@media screen and (max-width:1023px){
+    .market{
+        position: static;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .market .content1{
+        flex-wrap: wrap;
+        row-gap: 10px;
+    }
+
+    .content1 .imgs{
+        border: 1px solid #e5e7ea;
+        width: 400px;
+    }
+    .about{
+        background: 0;
+    }
+    .content2{
+        display: block;
+        width: 100%;
+        margin-left: 0;
+        padding-bottom: 0;
+        padding-top: 0;
+    }
+    .content2 .left{
+        position: static;
+        margin-left: 20px;
+    }
+    .content2 .right{
+        width: 100%;
+        margin-left: -90px;
+    }
+    .content3 .between div img{
+        width: 400px;
+    }
+    .between .correct{
+        margin-top: 50px;
+        margin-left: 80px;
+    } 
+    .content3 .bottom .name{
+        margin-left: 250px;
+    }
+    .what .content4{
+        width: 100%;
+        margin-left: 0;
+    }
+    .what{
+        background: 0;
+    }
+    .what .content4{
+        padding-top: 0;
+    }
+    .content4 h3{
+        margin-left: 10px;
+    }
+    .content4 .service{
+        margin-left: 10px;
+    }
+    .content4 .photo div{
+        border: 1px solid #e5e7ea;
+    }
+    .goal{
+        background: 0;
+    }
+    .goal .content6{
+        display: flex;
+        flex-direction: column;
+        padding-top: 130px;
+    }
+    .content6 .business{
+        width: 100%;
+        margin-left: 10px;
+        margin-top: 50px;
+    }
+    .study{
+        background: 0;
+    }
+    .content7{
+        padding-top: 0;
+    }
+    .content8{
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        height: auto;
+    }
+    .content8 div{
+        width: 45%;
+    }
+    .choose{
+        height: auto;
+        background-size: cover;
+    }
+    .choose .content9{
+        display: flex;
+        flex-direction: column;
+        padding-bottom: 50px;
+    }
+    .content9 .photo3 img{
+        width: auto;
+    }
+    .content9 .choose-us{
+        margin-left: 10px;
+        margin-top: 120px;
+        width: 100%;
+    }
+    .content9 .team{
+        position: static;
+        margin-top: 45px;
+    }
+    .glad .content11{
+        width: 96%;
+        margin-left: 2%;
+    }
+    .smith{
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+    }
+    .smith #all{
+        width: 370px;
+    }
+    .teka{
+        margin-top: 280px;
+    }
+    .teka .content12{
+        flex-wrap: wrap;
+        gap: 30px;
+    }
+    .content12 div{
+        width: 180px;
+    }
+    .contact .content13{
+        display: flex;
+        flex-direction: column;
+    }
+    .contact .content13 .free{
+        width: 100%;
+    }
+    .contact .content13 .free h3{
+        font-size: 12px;
+    }
+    .contact .content13 .select{
+        width: 100%;
+        margin-left: 0;
+    }
+    .contact .content13 .select .select1{
+        width: 100%;
+        margin-left: 0;
+    }
+    .blog2{
+        justify-content: center;
+        gap: 15px;
+    }
+    .blog2 div{
+        width: 460px;
+    }
+}
+@media screen and (max-width:990px){
+    .header .row1{
+        background: #fff;
+        border-bottom: 1px solid #e7e7e8;
+    }
+    .row1 .gps{
+        display: none;
+    }
+    .row1 .none{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+    }
+    .none p{
+        margin-right: 10px;
+    }
+    .none p .fa-phone-alt{
+        color: #818284;
+    }
+    .none p a{
+        text-decoration: none;
+        color: #818284;
+        margin-left: 5px;
+    }
+    .none .m{
+        text-decoration: none;
+        color: #fff;
+        margin-left: 10px;
+        background: #fe5a16;
+        padding: 8px 8px;
+        border-radius: 4%;
+    }
+    .row1 .hot{
+        display: none;
+    }
+    .row2 .logo{
+        padding-left: 30px;
+    }
+    .row2 .menu{
+        display: none;
+    }
+    .row2 .bar{
+        display: flex;
+        margin-right: 15px;
+    }
+    .bg .bg1 .content{
+        width: auto;
+    }
+    .content1 .imgs{
+        border: 1px solid #e5e7ea;
+        width: 350px;
+    }
+    .content3 .between .correct{
+        margin-left: 60px;
+    }
+    .content4 .photo{
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+    .photo div{
+        width: 400px;
+    }
+    .expert2{
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+    }
+    .expert2 div{
+        width: 400px;
+    }
+    .blog2 div{
+        width: 352px;
+    }
+    .subscribe h2{
+        font-size: 25px;
+    }
+    .subscribe p{
+        font-size: 12px;
+    }
+    .subscribe2{
+        margin-left: 28px;
+        margin-top: 30px;
+    }
+    .footer .footer1 .content16{
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        row-gap: 20px;
+    }
+    .content16 div{
+        width: 368px;
+    }
+    .content16 .king{
+        margin-top: 12px;
+    }
+}
+@media screen and (max-width:880px){
+    .content1 .imgs{
+        border: 1px solid #e5e7ea;
+        width: 300px;
+    }
+    .content4 .photo{
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+    .photo div{
+        width: 320px;
+    }
+    .expert2 div{
+        width: 350px;
+    }
+    .smith #all{
+        width: 310px;
+    }
+    .blog2{
+        gap: 30px;
+    }
+    .blog2 div{
+        width: 353px;
+    }
+    .subscribe h2{
+        font-size: 20px;
+    }
+    .subscribe p{
+        font-size: 8px;
+    }
+    .subscribe2{
+        margin-left: 10px;
+        margin-top: 28px;
+    }
+    .subscribe2 .gmail{
+        width: 280px;
+    }
+    .subscribe2 .click{
+        width: 100px;
+        margin-left: 5px;
+    }
+}
+@media screen and (max-width:770px){
+    .bg .bg1 .content{
+        width: auto;
+        display: flex;
+        flex-direction: column;
+        margin: 80px 10%;
+        flex-wrap: wrap;
+    }
+    .market{
+        margin-top: 100px;
+        position: static;
+        width: 100%;
+        margin-left: 0;
+    }
+    .content1{
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        height: auto;
+    }
+    .content1 .imgs{
+        border: 1px solid #e5e7ea;
+        width: 90%;
+        margin: 25px;
+    }
+    .about .content2{
+        padding-top: 0;
+    }
+    .content2 .left{
+        text-align: center;
+    }
+    .content3 .between{
+        display: block;
+    }
+    .content3 .between div img{
+        width: 100%;
+    }
+    .content3 .between .correct{
+        margin-left: 0;
+    }
+    .content3 .bottom{
+        display: block;
+    }
+    .content3 .bottom .name{
+        margin-left: 0;
+        margin-top: 30px;
+    }
+    .what{
+        margin-top: 380px;
+    }
+    .content4 h3{
+        margin-left: 30px;
+    }
+    .content4 .service{
+        margin-left: 30px;
+    }
+    .content4 .service{
+        display: block;
+    }
+    .content4 .photo{
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        height: auto;
+    }
+    .photo div{
+        width: 90%;
+        margin-top: 40px;
+        border: 1px solid #e5e7ea;
+    }
+    .photo div a h2{
+        margin-bottom: 0;
+    }
+    .content4 .service h1{
+        font-size: 35px;
+    }
+    .request .content5{
+        display: block;
+    }
+    .content5 h3{
+        width: fit-content;
+        margin-left: 50px;
+    }
+    .goal .content6{
+        padding-bottom: 90px;
+    }
+    .study .content7{
+        display: flex;
+        flex-direction: column;
+    }
+    .content7 .agency p{
+        padding-top: 0;
+        margin-top: 0;
+    }
+    .content8{
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        height: auto;
+    }
+    .content8 div{
+        width: 90%;
+    }
+    .choose-us .improve{
+        display: block;
+    }
+    .choose-us .improve .we{
+        margin-left: 0;
+    }
+    .expert .content10{
+        padding-top: 80px;
+    }
+    .content10 .expert1{
+        flex-direction: column;
+    }
+    .expert1 .matter{
+        width: 100%;
+    }
+    .expert1 .matter1{
+        margin-top: 20px;
+        margin-bottom: 40px;
+    }
+    .expert2 div{
+        width: 100%;
+    }
+    .smith #all{
+        width: 100%;
+    }
+    .teka .content12{
+        flex-wrap: wrap;
+        row-gap: 50px;
+        justify-content: space-evenly;
+    }
+    .content12 div{
+        width: 180px;
+    }
+    .blog{
+        margin-top: 50px;
+    }
+    .blog1{
+        flex-direction: column;
+    }
+    .blog1 .area{
+        width: 100%;
+    }
+    .blog1 .post{
+        margin-top: 30px;
+    }
+    .blog2{
+        margin-top: 80px;
+    }
+    .blog2 div{
+        width: 100%;
+    }
+    .subscribe{
+        margin-top: 90px;
+    }
+    .subscribe .content15{
+        flex-direction: column;
+    }
+    .content15 h2{
+        font-size: 26px;
+    }
+    .content15 p{
+        font-size: 12px;
+    }
+    .subcribe2{
+        display: flex;
+        flex-direction: column;
+    }
+    .subscribe2 .gmail{
+        width: 100%;
+        border-radius: 5px;
+    }
+    .subscribe2 .click{
+        width: 100%;
+        border-radius: 5px;
+        margin-top: 20px;
+    }
+    .footer .footer1 .content16{
+        flex-direction: column;
+    }
+    .content16 div{
+        width: 80%;
+        margin-left: 10%;
+    }
+    .content16 .theme .in{
+        margin-left: 0;
+    }
+    .content16 .gallery .gallery1{
+        margin-left: 0;
+    }
+    .content16 .gallery .gallery1 img{
+        width: 100px;
+    }
+    .content16 .gallery .gallery2{
+        margin-left: 0;
+    }
+    .content16 .gallery .gallery2 img{
+        width: 100px;
+    }
+}
+@media screen and (max-width:670px){
+    .content2 .left{
+        text-align: center;
+        margin-left: 0;
+        margin-top: 0;
+        padding: 20px;
+    }
+    .content2 .left img{
+        width: 100%;
+    }
+    .content9 .photo3{
+        padding: 20px;
+    }
+    .content9 .photo3 img{
+        width: 100%;
+    }
+}
+@media screen and (max-width:550px){
+    .bg{
+        background-attachment: local;
+    }
+    .link{
+        flex-direction: column;
+    }
+    .link .five{
+        margin-top: 25px;
+    }
+    .content6 .photo1 img{
+        width: 350px;
+    }
+    .choose-us .team{
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .team .team1{
+        display: none;
+    }
+    .team .team2{
+        margin-left: 0;
+    }
+    .content16 .gallery .gallery1{
+        flex-wrap: wrap;
+    }
+    .content16 .gallery .gallery2{
+        flex-wrap: wrap;
+    }
+}
+@media screen and (max-width:356px){
+    .row1 .none{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+    }
+}
